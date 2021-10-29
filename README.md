@@ -8,3 +8,5 @@
 - 0223331@up.edu.mx  Katie Lucía Lozano Pérez
 - 0223332@up.edu.mx  Emiliano Aceves Hernández
 - 0223736@up.edu.mx  Jorge Gutiérrez Moreno
+## Roadmap
+###### Por el momento no tenemos planeado continuar con este proyecto, pero sin duda a todos en el equipo nos pareció una buena idea para cuidar a nuestro planeta tierra, en caso de que decidamos hacer más avances con este proyecto, actualizaremos la información aqui mismo.
