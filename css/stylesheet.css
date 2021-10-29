@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Bai+Jamjuree:wght@200&family=Sarabun:ital,wght@1,500&display=swap");
+
+h2,
+h5 {
+  font-family: "Sarabun", sans-serif;
+  color: #f2e8fc;
+}
+p {
+  font-family: "Bai Jamjuree", sans-serif;
+  color: #f2e8fc;
+}
+body {
+  background-color: #f2e8cf;
+}
+#banner {
+  background-color: #3e505b;
+}
